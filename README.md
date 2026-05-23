@@ -11,3 +11,4 @@ El modelo incluye las siguientes tablas:
 - `reservations_rooms` (Tabla intermedia de relación N:M)
 
 ## Enlace al Video Explicativo
+https://youtu.be/MkZcf_6NouM
